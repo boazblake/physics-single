@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
   }
 }
