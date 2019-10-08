@@ -1,0 +1,32 @@
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+}
+
+#canvas {
+  width: 600px;
+  height: 600px
+}
+
+.controls {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  padding: 2rem;
+}
+
+
+.slider {
+  display: flex;
+  flex-flow: wrap;
+  align-content: center;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+/*# sourceMappingURL=/physics.e31bb0bc.css.map */

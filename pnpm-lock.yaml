@@ -1,0 +1,11 @@
+dependencies:
+  mithril: 2.0.4
+lockfileVersion: 5.1
+packages:
+  /mithril/2.0.4:
+    dev: false
+    hasBin: true
+    resolution:
+      integrity: sha512-mgw+DMZlhMS4PpprF6dl7ZoeZq5GGcAuWnrg5e12MvaGauc4jzWsDZtVGRCktsiQczOEUr2K5teKbE5k44RlOg==
+specifiers:
+  mithril: ^2.0.4
